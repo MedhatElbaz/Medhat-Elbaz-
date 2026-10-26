@@ -54,6 +54,7 @@ I'm a Computer Science graduate focused on penetration testing and offensive sec
 - [LinkedIn](https://www.linkedin.com/in/medhatelbaz/)
 - [Portfolio](https://medhatelbaz.github.io/)
 - [GitHub](https://github.com/MedhatElbaz)
+- [WhatsApp](https://wa.me/201028846518)
 
 ## Social Media
 
@@ -61,7 +62,8 @@ I'm a Computer Science graduate focused on penetration testing and offensive sec
   <a href="https://www.instagram.com/medhat_elbaz/">Instagram</a> •
   <a href="https://www.facebook.com/share/1FrngTDemw/">Facebook</a> •
   <a href="https://www.tiktok.com/@medhat__elbaz">TikTok</a> •
-  <a href="https://youtube.com/@medhatmohamedelbaz">YouTube</a>
+  <a href="https://youtube.com/@medhatmohamedelbaz">YouTube</a> •
+  <a href="https://wa.me/201028846518">WhatsApp</a>
 </p>
 
 ---

@@ -1,6 +1,10 @@
 # Medhat Elbaz | Junior Penetration Tester
 
 <p align="center">
+  <img src="./github-banner.png" alt="Medhat Elbaz — Junior Penetration Tester" width="100%" />
+</p>
+
+<p align="center">
   <strong>Cybersecurity • Web Application Security • Network Security</strong><br/>
   Hands-on learner focused on identifying, validating, and documenting security vulnerabilities.
 </p>
